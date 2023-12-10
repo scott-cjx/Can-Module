@@ -1,0 +1,10 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C101, C102",0402,2,100n,C1523
+"C103, C104",0402,2,20p,C1554
+"J101, J102",PinHeader_1x05_P2.54mm_Vertical,2,Can Connect,
+J103,PinHeader_1x02_P2.54mm_Horizontal,1,Can Termination,
+R101,0402,1,10K,C25744
+R102,0805,1,120,C17437
+U101,SOIC-8_3.9x4.9mm_P1.27mm,1,SN65HVD230,C12084
+U102,SOIC-14_3.9x8.7mm_P1.27mm,1,MCP2518FD,C626758
+Y101,Crystal_SMD_3225-4Pin_3.2x2.5mm,1,40MHz,C9010
