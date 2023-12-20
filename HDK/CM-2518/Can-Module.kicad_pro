@@ -402,7 +402,9 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "NVF-Kicad"
+    ],
     "pinned_symbol_libs": []
   },
   "meta": {
@@ -442,7 +444,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "production/Can-Module_2023-12-10_16-28-35/Can-Module.step",
+      "step": "../../../NVF-Kicad-Resources/3dmodels/CM251X.STEP",
       "vrml": ""
     },
     "page_layout_descr_file": ""
